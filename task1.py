@@ -3,7 +3,7 @@ my_list.append(7)
 my_list.remove(5)
 my_list[0]
 print(my_list)
-my_dict={'name':'jungkook','age':'27','city':'goa'}
+my_dict={'name':'ikka','age':'27','city':'goa'}
 my_dict['gender']='male'
 del my_dict['age']
 my_dict['city']='Bangalore'
